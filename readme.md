@@ -7,7 +7,6 @@ This package provides a unified interface to perform web searches across multipl
 - Supports Google, Bing, DuckDuckGo, Yahoo, and Baidu search engines
 - Simple, consistent API for all supported search engines
 - Configurable number of results
-- API key support for engines that require it (e.g., Bing)
 
 ## Installation
 
@@ -65,7 +64,7 @@ A list of search results. The exact format may vary depending on the search engi
 
 ## Supported Search Engines
 - Google
-- Bing (requires API key)
+- Bing
 - DuckDuckGo
 - Yahoo
 - Baidu
