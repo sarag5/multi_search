@@ -10,7 +10,7 @@ setup(
     name="multi-search-engine",
     version="1.0.0",
     author="sabarinathan raghupathi",
-    author_email="sabarinathan_96"proton.me",
+    author_email="sabarinathan_96@proton.me",
     description="A Python library for scraping the multiple search engine.",
     long_description=long_description,
     long_description_content_type="text/markdown",
