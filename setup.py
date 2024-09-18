@@ -7,7 +7,7 @@ with open("requirements.txt", "r", encoding='UTF-8') as fh:
     requirements = fh.read().split("\n")
 
 setup(
-    name="multi-search-engine",
+    name="multi_search_engine",
     version="1.0.0",
     author="sabarinathan raghupathi",
     author_email="sabarinathan_96@proton.me",
