@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "multi_search_engine"
-version = "0.1.0"
+version = "1.0.0"
 authors = [
   { name="sabarinathan raghupathi", email="sabarinathan_96@pm.me" },
 ]
